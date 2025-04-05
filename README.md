@@ -4,7 +4,7 @@
 
 # Sistema de Análise Estatística Descritiva
 
-**UCALC** é um aplicativo desktop interativo desenvolvido com **Python** e **CustomTkinter**, que permite 
+**U-CALC** é um aplicativo desktop interativo desenvolvido com **Python** e **CustomTkinter**, que permite 
 realizar análises estatísticas descritivas de maneira prática, visual e intuitiva. O sistema é ideal para 
 estudantes, professores e profissionais que desejam interpretar dados de forma rápida e eficiente.
 ---
